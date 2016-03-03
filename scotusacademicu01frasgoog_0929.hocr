@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scotusacademicu01frasgoog_0929.png"; bbox 0 0 765 1359; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 636 44 686 162">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 636 44 686 162">
+     <span class='ocr_line' id='line_1_1' title="bbox 636 44 686 162; baseline 0 1197"><span class='ocrx_word' id='word_1_1' title='bbox 636 44 686 162; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 175 633 590 678">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 175 633 590 678">
+     <span class='ocr_line' id='line_1_2' title="bbox 312 633 448 647; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 312 633 448 647; x_wconf 73' lang='lat' dir='ltr'>nn’muA&#39;er:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 175 659 590 678; baseline 0 -4"><span class='ocrx_word' id='word_1_3' title='bbox 175 661 199 674; x_wconf 69' lang='lat' dir='ltr'><strong>Fr.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 210 660 296 674; x_wconf 67' lang='lat' dir='ltr'><strong>Auum-rs</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 306 660 364 674; x_wconf 74' lang='lat' dir='ltr'>Lm’nn</span> <span class='ocrx_word' id='word_1_6' title='bbox 374 660 392 674; x_wconf 73' lang='grc' dir='ltr'><strong>Ο,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 402 660 419 673; x_wconf 84' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 430 659 445 674; x_wconf 86' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 456 660 473 674; x_wconf 70' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_10' title='bbox 484 660 502 673; x_wconf 80' lang='grc' dir='ltr'><strong>Α.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 510 660 590 678; x_wconf 67' lang='lat' dir='ltr'><strong>Mnffu&#39;ater.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 125 718 641 764">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 125 718 641 764">
+     <span class='ocr_line' id='line_1_4' title="bbox 314 718 449 732; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 314 718 449 732; x_wconf 73' lang='lat' dir='ltr'>IMPmMATru:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 125 745 641 764; baseline 0 -5"><span class='ocrx_word' id='word_1_13' title='bbox 125 746 187 760; x_wconf 74' lang='lat' dir='ltr'>Josmm</span> <span class='ocrx_word' id='word_1_14' title='bbox 197 745 307 762; x_wconf 55' lang='lat' dir='ltr'><strong>Canauna,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 317 745 443 764; x_wconf 70' lang='lat' dir='ltr'><strong>Archispiswpun</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 453 745 533 763; x_wconf 68' lang='lat' dir='ltr'><strong>Myrmsiu,</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 546 746 641 764; x_wconf 68' lang='lat' dir='ltr'><strong>Viouoemu.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

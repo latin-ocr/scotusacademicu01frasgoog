@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scotusacademicu01frasgoog_0659.png"; bbox 0 0 765 1359; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 89 446 273 624">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 89 446 273 624">
+     <span class='ocr_line' id='line_1_1' title="bbox 89 446 273 624; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 89 446 273 624; x_wconf 55' lang='grc' dir='ltr'>ιῑςῗίῑςιῐ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 107 1008 538 1055">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 107 1008 538 1055">
+     <span class='ocr_line' id='line_1_2' title="bbox 294 1008 538 1030; baseline -0.008 -2"><span class='ocrx_word' id='word_1_2' title='bbox 294 1009 405 1028; x_wconf 51' lang='lat' dir='ltr'>Qui-:5150</span> <span class='ocrx_word' id='word_1_3' title='bbox 417 1009 491 1030; x_wconf 73' lang='lat' dir='ltr'>Quuss&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 503 1008 506 1011; x_wconf 75' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 536 1027 538 1029; x_wconf 58' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 107 1037 519 1055; baseline -0.007 -3"><span class='ocrx_word' id='word_1_6' title='bbox 107 1037 157 1054; x_wconf 66' lang='lat' dir='ltr'>urm</span> <span class='ocrx_word' id='word_1_7' title='bbox 166 1037 264 1051; x_wconf 68' lang='lat' dir='ltr'><strong>mmm-us</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 272 1037 316 1053; x_wconf 77' lang='lat' dir='ltr'>sun.</span> <span class='ocrx_word' id='word_1_9' title='bbox 326 1037 418 1055; x_wconf 61' lang='lat' dir='ltr'>Axona-3,</span> <span class='ocrx_word' id='word_1_10' title='bbox 433 1037 459 1052; x_wconf 76' lang='grc' dir='ltr'>ετ</span> <span class='ocrx_word' id='word_1_11' title='bbox 473 1040 476 1050; x_wconf 73' lang='grc'>;</span> <span class='ocrx_word' id='word_1_12' title='bbox 517 1042 519 1049; x_wconf 78' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 135 1070 446 1085">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 135 1070 446 1085">
+     <span class='ocr_line' id='line_1_4' title="bbox 135 1070 446 1085; baseline 0.003 -1"><span class='ocrx_word' id='word_1_13' title='bbox 135 1070 225 1084; x_wconf 52' lang='grc' dir='ltr'>κυνικοί-ι</span> <span class='ocrx_word' id='word_1_14' title='bbox 237 1071 250 1084; x_wconf 30' lang='lat'>1⁷</span> <span class='ocrx_word' id='word_1_15' title='bbox 259 1071 319 1085; x_wconf 62' lang='lat' dir='ltr'>Certum</span> <span class='ocrx_word' id='word_1_16' title='bbox 329 1075 362 1084; x_wconf 59' lang='lat' dir='ltr'>aar</span> <span class='ocrx_word' id='word_1_17' title='bbox 371 1071 446 1085; x_wconf 54' lang='lat' dir='ltr'>Ch&amp;—</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 765 1359">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 765 1359">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 765 1359; baseline 0 4"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 765 1359; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
